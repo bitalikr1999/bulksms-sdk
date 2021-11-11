@@ -1,6 +1,6 @@
 {
   "name": "bulksms-sdk",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Bulk sms sdk 2021",
   "main": "dist/index.js",
   "types": "dist/*.d.ts",
